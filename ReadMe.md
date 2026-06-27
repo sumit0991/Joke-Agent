@@ -29,7 +29,7 @@ Response returned in Streamlit UI
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/joke-ai-agent.git
+git clone https://github.com/sumit0991/Joke-Agent.git
 cd joke-ai-agent
 2. Install dependencies
 pip install -r requirements.txt
