@@ -1,0 +1,274 @@
+[
+  {
+    "role": "user",
+    "content": "tell me a joke"
+  },
+  {
+    "role": "assistant",
+    "content": "Whydid the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "role": "user",
+    "content": "what is my current grade in my class"
+  },
+  {
+    "role": "assistant",
+    "content": "\nSorry, I can only tell jokes.\n"
+  },
+  {
+    "role": "user",
+    "content": "what is my car spped if its velocity is 20 m/s"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "what is my name"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "tell me a joke on computers"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "tell me a bad joke"
+  },
+  {
+    "role": "assistant",
+    "content": "Why don\u2019t skeletons fight each other?\n\nBecause they don\u2019t have the guts!"
+  },
+  {
+    "role": "user",
+    "content": "joke on Ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did the AI go to therapy?\n\nIt kept getting \u201crejection\u201d from its feelings!"
+  },
+  {
+    "role": "user",
+    "content": "joke on computer"
+  },
+  {
+    "role": "assistant",
+    "content": "Why do programmers prefer dark mode?  \nBecause in light mode, bugs just crawl out!"
+  },
+  {
+    "role": "user",
+    "content": "tell my name joke"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did they name you \u201cJoker\u201d?  \nBecause every time you speak, the world cracks a smile!"
+  },
+  {
+    "role": "user",
+    "content": "what is he doing in the car now?"
+  },
+  {
+    "role": "assistant",
+    "content": "\n\nSorry, I canonly tell jokes.\n"
+  },
+  {
+    "role": "user",
+    "content": "python -u \"c:\\Users\\dell_\\OneDrive\\Desktop\\Joke Agent\\prompts.py\""
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "tell me a joke on llm"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did the LLM go to school?\n\nIt wanted to improve its \u201csentence\u201d structure!"
+  },
+  {
+    "role": "user",
+    "content": "which medicine i should take to resolve my problems"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "i am felling so sad i want a joke that can make me laugh"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did thescarecrow become a successful motivational speaker? Because he was outstanding in his field!"
+  },
+  {
+    "role": "user",
+    "content": "one more"
+  },
+  {
+    "role": "assistant",
+    "content": "Why don\u2019t scientists trust atoms anymore?  \nBecause they make up everything!"
+  },
+  {
+    "role": "user",
+    "content": "on students"
+  },
+  {
+    "role": "assistant",
+    "content": "Why do students always carry a ladder to class?  \nBecause they want to reach the *high* scores!"
+  },
+  {
+    "role": "user",
+    "content": "solve 2+2"
+  },
+  {
+    "role": "assistant",
+    "content": "2+2=4\n"
+  },
+  {
+    "role": "user",
+    "content": "tell me the answer what is 2*2"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "what is 2+2"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "what joke i will say to my teaher to make him angry"
+  },
+  {
+    "role": "assistant",
+    "content": "Teacher: \u201cWhere\u2019s your homework?\u201d  \nStudent: \u201cIt\u2019s at home, sir \u2014 I didn\u2019t want to make you jealous of my handwriting!\u201d"
+  },
+  {
+    "role": "user",
+    "content": "joke about someone personality"
+  },
+  {
+    "role": "assistant",
+    "content": "\nWhy did they become a weather reporter? Because they're great at *changing their mind*!\n"
+  },
+  {
+    "role": "user",
+    "content": "python -u \"c:\\Users\\dell_\\OneDrive\\Desktop\\Joke Agent\\main.py\""
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "tell me a joke about chatbot"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did the chatbot sit on the laptop? Because it wanted to merge into the system courage!   \n*(Merge = \"marry\")*\n"
+  },
+  {
+    "role": "user",
+    "content": "what is 2+2"
+  },
+  {
+    "role": "assistant",
+    "content": "2 + 2 = **4**  \n\n(That\u2019s a neat little math fact\u2014hope it made it into your day!) \ud83c\udf89"
+  },
+  {
+    "role": "user",
+    "content": "what is 10*10"
+  },
+  {
+    "role": "assistant",
+    "content": "10 * 10 = **100** (Bonus fact: This is called squaring 10, because you're multiplying the number by itself!) \ud83e\uddee\n"
+  },
+  {
+    "role": "user",
+    "content": "what is 2+@\\"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "python -u \"c:\\Users\\dell_\\OneDrive\\Desktop\\Joke Agent\\main.py\""
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can only tell jokes."
+  },
+  {
+    "role": "user",
+    "content": "python -u \"c:\\Users\\dell_\\OneDrive\\Desktop\\Joke Agent\\main.py\""
+  },
+  {
+    "role": "assistant",
+    "content": "Hey there! If there\u2019s anything funny or energetic I can share, just let me know. \ud83d\ude04  \nWhat would you like a joke about next?"
+  },
+  {
+    "role": "user",
+    "content": "tell me 3+5"
+  },
+  {
+    "role": "assistant",
+    "content": "3 + 5 = **8** \ud83c\udf89"
+  },
+  {
+    "role": "user",
+    "content": "tell me 20+45"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I can onlytell jokes."
+  },
+  {
+    "role": "user",
+    "content": "what make 6 different from 9?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nWhy did 6 break up with 9? Because 9 always turns things upside-down! \ud83d\ude02\n"
+  },
+  {
+    "role": "user",
+    "content": "tell a mindblowing joke"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did the scarecrow keep a diary?  \nBecause he was *outstanding* at keeping his *field* of thoughts organized!"
+  },
+  {
+    "role": "user",
+    "content": "tell me a joke"
+  },
+  {
+    "role": "assistant",
+    "content": "API Error: Check API key or model name"
+  },
+  {
+    "role": "user",
+    "content": "tell me a joke"
+  },
+  {
+    "role": "assistant",
+    "content": "API Error: Check API key or model name"
+  }
+]
