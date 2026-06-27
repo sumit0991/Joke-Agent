@@ -59,17 +59,17 @@ streamlit run app.py
 ---
 
 # 🧩 Tech Stack
--Python 🐍
--Streamlit 🎈
--OpenRouter API 🤖
--Requests library 🌐
+-Python 
+-Streamlit 
+-OpenRouter API 
+-Requests library 
 
 ---
 
 # 🔥 Key Concepts Used
--LLM API integration
--Prompt engineering (strict system prompt)
--Fallback architecture (LLM + local system)
--Intent classification (rule-based)
--State management (session + file memory)
--Streamlit UI design
+ -LLM API integration
+ -Prompt engineering (strict system prompt)
+ -Fallback architecture (LLM + local system)
+ -Intent classification (rule-based)
+ -State management (session + file memory)
+ -Streamlit UI design
