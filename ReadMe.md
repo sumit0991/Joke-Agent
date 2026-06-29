@@ -5,6 +5,11 @@ A simple AI-powered Joke Generator built using Python, Streamlit, and OpenRouter
 The agent detects user intent and responds only with jokes. If the API fails or rate limit is exceeded, it automatically switches to local jokes.
 
 ---
+# LIVE LINK
+
+ - https://joke-agent-rnmkr4bc2v5bby65jjt63q.streamlit.app/
+
+ ---
 
 # 🚀 Features
 
